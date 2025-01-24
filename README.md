@@ -1,4 +1,4 @@
- 깃 사용법 익히기  
+📃 깃 사용법 익히기  
 git init > 깃으로 관리할 폴더를 초기화  
 git config --global user.name "이름"​  
 git config --global user.email "이메일"  
@@ -28,4 +28,4 @@ git pull origin master 깃에서 다운
 git clone 저장소주소 .(주소다음 공백 하나하고 . 까지 붙여야 해당 디렉토리에 바로 생성) => 초기화 연결 다운로드를 한꺼번에  
   
 원격지와 내 현재 작업이 일치하는지 항상 확인  
--> 작업이 끝날때마다 항상 push 하는것을 잊지말기  
+-> 작업이 끝날때마다 항상 push 하는것을 잊지말기  😊
